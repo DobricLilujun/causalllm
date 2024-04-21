@@ -1,0 +1,12 @@
+resource/
+files/
+*.docx
+*.xlsx
+*.pptx
+**/*.doc
+**/*.xls
+**/*.ppt
+**.env
+output/
+causal/chunksize.ipynb
+.vscode
