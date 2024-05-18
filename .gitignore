@@ -1,5 +1,7 @@
 # Ignore all files except .ipynb and .py files under the 'resource' directory
 /resource/*
+!resource/**/*.ipynb
+!resource/**/*.py
 !*.ipynb
 !*.py
 files/
