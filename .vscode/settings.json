@@ -1,5 +1,9 @@
 {
-    "workbench.colorCustomizations": {
+    "peacock.remoteColor": "#215732",
+    "[python]": {
+        "editor.formatOnSave": true
+      },
+      "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#2f7c47",
         "activityBar.background": "#2f7c47",
         "activityBar.foreground": "#e7e7e7",
@@ -17,6 +21,6 @@
         "titleBar.activeForeground": "#e7e7e7",
         "titleBar.inactiveBackground": "#21573299",
         "titleBar.inactiveForeground": "#e7e7e799"
-    },
-    "peacock.remoteColor": "#215732"
+      },
+      "peacock.color": "#215732"
 }
