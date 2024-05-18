@@ -1,13 +1,13 @@
 # Ignore all files except .ipynb and .py files under the 'resource' directory
-/resource/*
-!resource/**/*.ipynb
-!resource/**/*.py
+
 !*.ipynb
 !*.py
 files/
 *.docx
 *.xlsx
 *.pptx
+*.csv
+*.pdf
 **/*.doc
 **/*.xls
 **/*.ppt
@@ -16,3 +16,4 @@ output/
 causal/chunksize.ipynb
 .vscode/*
 __pycache__/
+resource/
