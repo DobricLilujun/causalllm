@@ -13,3 +13,4 @@ files/
 output/
 causal/chunksize.ipynb
 .vscode/*
+__pycache__/
